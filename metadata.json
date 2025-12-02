@@ -1,0 +1,5 @@
+{
+  "name": "AuthSys Pro",
+  "description": "Um sistema completo de autenticação e cadastro de usuários com simulação de banco de dados e assistente de perfil via IA.",
+  "requestFramePermissions": []
+}
